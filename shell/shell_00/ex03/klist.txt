@@ -1,0 +1,5 @@
+Credentials cache: API:EAD24A87-F905-40F3-A689-271174A048E3
+        Principal: ldominiq@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Aug  2 11:28:43 2021  Aug  2 21:28:43 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
